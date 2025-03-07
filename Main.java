@@ -73,6 +73,18 @@ public class Main {
         System.out.println ("x="+ x ) ;
         System.out.println ("y="+ y ) ;
         */
+
+        // EXERCÍCIO 7
+        /*
+        int x = 10;
+        int y = 2;
+        System.out.println ("x em binario = "+ Integer.toBinaryString ( x ) ) ;
+        x = x >> y;
+        System.out.println ("x = " + x ) ;
+        System.out.println ("x em binario = "+ Integer.toBinaryString ( x ) ) ;
+        */
+        
+
     }
 
 }
