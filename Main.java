@@ -64,8 +64,15 @@ public class Main {
         System.out.println(numero);
         */
 
-        
-
+        // EXERCÍCIO 6
+        /*
+        int x = 10;
+        int y = 10;
+        System.out.println (x++) ;
+        System.out.println (++y) ;
+        System.out.println ("x="+ x ) ;
+        System.out.println ("y="+ y ) ;
+        */
     }
 
 }
