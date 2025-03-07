@@ -1,4 +1,5 @@
 import javax.sound.midi.SysexMessage;
+import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
@@ -27,6 +28,19 @@ public class Main {
             System.out.println("É um número ímpar!");
         }
          */
+
+        //EXERCÍCIO 3
+        /*
+        System.out.println("Digite um número: ");
+        float primNumero = leitor.nextFloat();
+
+        System.out.println("Digite outro número: ");
+        float segNumero = leitor.nextFloat();
+
+        float divisao = primNumero / segNumero;
+
+        System.out.println("O resulado da divisão é: " + divisao);
+        */
 
         
 
