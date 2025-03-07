@@ -42,8 +42,22 @@ public class Main {
         System.out.println("O resulado da divisão é: " + divisao);
         */
 
-        
+        // EXERCÍCIO 4
+        /*
+        System.out.println("Digite um texto: ");
+        String primTexto = leitor.nextLine();
 
+        System.out.println("Digite outro texto: ");
+        String segTexto = leitor.nextLine();
+
+        if (primTexto.intern() == segTexto.intern()){
+            System.out.println("São iguais!");
+        }else{
+            System.out.println("São diferentes!");
+        }
+        */
+
+        
     }
 
 }
